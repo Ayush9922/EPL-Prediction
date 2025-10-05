@@ -1,0 +1,321 @@
+Season,Rank,Player,Club,Age,Position,Minutes_Played,Assists_prev_season,Goals_prev_season,Assists,Key_Passes,Expected_Assists_(xA),Crosses_Completed,Dribbles_Completed,Shots_Assisted,Set_Piece_Involvement,Club_Total_Goals,Club_League_Rank,Big6_Club_Feature,Club_Attack_Share,Club_xG,Assists_per_90,xA_per_90,Key_Passes_per_90
+2023-24,1,Ollie Watkins,Aston Villa,28,Forward,3350,15,14,13,55,6.5,N/A,53,55,No,76,4,No,0.42,66.9,0.35,0.17,1.48
+2023-24,2,Cole Palmer,Chelsea,22,Midfielder,2985,3,3,11,46,6.2,N/A,62,46,Yes,77,6,Yes,0.43,62.2,0.33,0.19,1.38
+2023-24,3,Anthony Gordon,Newcastle United,23,Winger,2954,2,11,10,48,6.1,N/A,57,48,No,85,7,No,0.25,65.3,0.3,0.18,1.46
+2023-24,4,Kevin De Bruyne,Manchester City,32,Midfielder,1121,16,7,10,38,5.9,N/A,15,38,Yes,96,1,Yes,0.27,78.5,0.8,0.47,3.05
+2023-24,5,Pascal Groß,Brighton,33,Midfielder,3241,8,9,10,58,7.2,N/A,19,58,Yes,55,11,No,0.35,59.3,0.28,0.2,1.61
+2023-24,6,Morgan Gibbs-White,Nottingham Forest,24,Midfielder,2919,8,5,10,60,6.8,N/A,44,60,Yes,42,17,No,0.36,46.5,0.31,0.21,1.85
+2023-24,7,Dejan Kulusevski,Tottenham Hotspur,24,Winger,2853,7,2,9,45,5.5,N/A,41,45,No,74,5,Yes,0.24,67.6,0.28,0.17,1.42
+2023-24,8,Jarrod Bowen,West Ham,27,Winger,3373,7,6,8,42,5,N/A,47,42,No,60,9,No,0.27,51.8,0.21,0.13,1.12
+2023-24,9,Kieran Trippier,Newcastle United,33,Fullback,2494,9,1,8,74,8.1,N/A,10,74,Yes,85,7,No,0.18,65.3,0.29,0.29,2.67
+2023-24,10,Mohamed Salah,Liverpool,32,Winger,2841,13,19,7,56,6.9,N/A,67,56,Yes,86,3,Yes,0.3,83.9,0.22,0.22,1.78
+2022-23,1,Kevin De Bruyne,Manchester City,31,Midfielder,2425,11,7,16,99,10.7,N/A,32,99,Yes,94,1,Yes,0.24,78.5,0.59,0.4,3.67
+2022-23,2,Leandro Trossard,Arsenal,28,Winger,2675,2,8,12,41,4.8,N/A,28,41,No,88,2,Yes,0.23,71.2,0.4,0.16,1.37
+2022-23,3,Bukayo Saka,Arsenal,21,Winger,3177,10,11,11,63,6.5,N/A,58,63,No,88,2,Yes,0.25,71.2,0.31,0.18,1.78
+2022-23,4,Riyad Mahrez,Manchester City,32,Winger,1750,11,11,10,49,5.2,N/A,48,49,Yes,94,1,Yes,0.22,78.5,0.51,0.27,2.52
+2022-23,5,Michael Olise,Crystal Palace,21,Winger,2166,1,2,9,58,5.8,N/A,45,58,Yes,40,11,No,0.25,38.2,0.37,0.24,2.41
+2022-23,6,Bruno Fernandes,Manchester United,28,Midfielder,3313,6,10,8,119,11.2,N/A,53,119,Yes,58,3,Yes,0.36,61.9,0.22,0.3,3.23
+2022-23,7,Trent Alexander-Arnold,Liverpool,24,Fullback,2558,12,2,7,81,8,N/A,25,81,Yes,75,5,Yes,0.27,71.3,0.25,0.28,2.85
+2022-23,8,Harry Kane,Tottenham Hotspur,29,Forward,3405,9,17,7,34,4,N/A,31,34,Yes,70,8,Yes,0.3,59.3,0.18,0.11,0.9
+2022-23,9,Martin Ødegaard,Arsenal,24,Midfielder,3159,3,7,6,68,7.1,N/A,36,68,Yes,88,2,Yes,0.24,71.2,0.17,0.2,1.94
+2022-23,10,Erling Haaland,Manchester City,22,Forward,2775,N/A,N/A,6,21,2.5,N/A,8,21,No,94,1,Yes,0.44,78.5,0.19,0.08,0.68
+2021-22,1,Mohamed Salah,Liverpool,29,Winger,3060,13,22,13,64,9,N/A,81,64,Yes,94,2,Yes,0.37,84.9,0.38,0.26,1.88
+2021-22,2,Trent Alexander-Arnold,Liverpool,23,Fullback,2853,7,2,12,81,9.5,N/A,29,81,Yes,94,2,Yes,0.26,84.9,0.38,0.3,2.56
+2021-22,3,Mason Mount,Chelsea,23,Midfielder,2491,4,6,10,69,7.2,N/A,24,69,Yes,76,3,Yes,0.28,66.8,0.36,0.26,2.49
+2021-22,4,Jarrod Bowen,West Ham United,25,Winger,3174,10,8,10,52,5.9,N/A,37,52,No,60,7,No,0.37,52.3,0.28,0.17,1.47
+2021-22,5,Andrew Robertson,Liverpool,28,Fullback,2976,7,1,10,61,6.5,N/A,20,61,Yes,94,2,Yes,0.27,84.9,0.3,0.2,1.84
+2021-22,6,Kevin De Bruyne,Manchester City,30,Midfielder,2484,11,6,9,77,9.3,N/A,15,77,Yes,99,1,Yes,0.27,90.4,0.33,0.34,2.79
+2021-22,7,Paul Pogba,Manchester United,29,Midfielder,1343,7,3,9,24,3,N/A,19,24,No,57,6,Yes,0.28,52.7,0.6,0.2,1.6
+2021-22,8,Gabriel Jesus,Manchester City,25,Winger,1839,6,9,8,39,4.2,N/A,39,39,No,99,1,Yes,0.17,90.4,0.39,0.21,1.9
+2021-22,9,Reece James,Chelsea,22,Fullback,1863,2,1,8,29,3.1,N/A,23,29,No,76,3,Yes,0.12,66.8,0.39,0.15,1.4
+2021-22,10,Harvey Barnes,Leicester City,24,Winger,2275,5,9,10,36,3.5,N/A,35,36,No,62,8,No,0.31,54.8,0.39,0.14,1.42
+2020-21,1,Harry Kane,Tottenham Hotspur,27,Forward,3086,2,18,14,49,8.2,N/A,31,49,Yes,68,7,Yes,0.54,53.4,0.41,0.24,1.43
+2020-21,2,Bruno Fernandes,Manchester United,26,Midfielder,3108,12,8,12,95,10.5,N/A,33,95,Yes,73,2,Yes,0.33,68.9,0.35,0.3,2.75
+2020-21,3,Kevin De Bruyne,Manchester City,29,Midfielder,2156,20,13,11,80,9.1,N/A,28,80,Yes,83,1,Yes,0.29,79.5,0.46,0.38,3.34
+2020-21,4,Jack Grealish,Aston Villa,25,Midfielder,2237,5,8,10,81,7.6,N/A,69,81,No,55,11,No,0.31,52.4,0.4,0.31,3.25
+2020-21,5,Jamie Vardy,Leicester City,34,Forward,2956,4,23,9,24,3.5,N/A,14,24,Yes,68,5,No,0.32,53.9,0.27,0.11,0.73
+2020-21,6,Son Heung-min,Tottenham Hotspur,28,Winger,3120,6,11,8,44,5.3,N/A,37,44,No,68,7,Yes,0.38,53.4,0.23,0.15,1.27
+2020-21,7,Marcus Rashford,Manchester United,23,Winger,2705,3,17,7,37,4,N/A,44,37,No,73,2,Yes,0.31,68.9,0.23,0.13,1.23
+2020-21,8,Danny Ings,Southampton,28,Forward,2430,3,22,6,28,3.1,N/A,11,28,No,47,15,No,0.38,42.5,0.22,0.11,1.04
+2020-21,9,Dominic Calvert-Lewin,Everton,24,Forward,2864,2,13,5,16,2,N/A,17,16,No,47,10,No,0.38,39.8,0.16,0.06,0.5
+2020-21,10,Mason Mount,Chelsea,22,Midfielder,2809,4,7,4,74,7.9,N/A,35,74,Yes,58,4,Yes,0.19,65.3,0.13,0.25,2.37
+2019-20,1,Kevin De Bruyne,Manchester City,28,Midfielder,2800,16,6,20,136,13.5,N/A,31,136,Yes,102,2,Yes,0.32,97.7,0.64,0.43,4.37
+2019-20,2,Trent Alexander-Arnold,Liverpool,21,Fullback,3173,12,1,13,87,10.4,N/A,17,87,Yes,85,1,Yes,0.28,70.9,0.37,0.29,2.46
+2019-20,3,Andrew Robertson,Liverpool,26,Fullback,3183,10,0,12,57,7,N/A,10,57,Yes,85,1,Yes,0.26,70.9,0.34,0.2,1.61
+2019-20,4,Riyad Mahrez,Manchester City,29,Winger,1904,7,7,11,43,4.8,N/A,70,43,No,102,2,Yes,0.18,97.7,0.52,0.23,2.03
+2019-20,5,David Silva,Manchester City,34,Midfielder,2158,5,6,10,66,7.5,N/A,32,66,No,102,2,Yes,0.16,97.7,0.42,0.31,2.75
+2019-20,6,Raheem Sterling,Manchester City,25,Winger,2980,9,17,9,40,4.1,N/A,55,40,No,102,2,Yes,0.26,97.7,0.27,0.12,1.21
+2019-20,7,Adama Traoré,Wolverhampton Wanderers,24,Winger,2674,1,1,8,27,3.2,N/A,183,27,No,51,7,No,0.18,48.6,0.27,0.11,0.91
+2019-20,8,Mohamed Salah,Liverpool,28,Winger,3079,7,22,7,40,4.5,N/A,64,40,No,85,1,Yes,0.34,70.9,0.2,0.13,1.17
+2019-20,9,Son Heung-min,Tottenham Hotspur,28,Winger,2403,7,12,6,31,3.5,N/A,28,31,No,61,6,Yes,0.3,55.4,0.22,0.13,1.16
+2019-20,10,Marcus Rashford,Manchester United,22,Forward,2268,7,10,5,31,3.3,N/A,73,31,Yes,66,3,Yes,0.29,60.6,0.2,0.13,1.23
+2018-19,1,Eden Hazard,Chelsea,28,Winger,2926,4,12,15,99,13,N/A,135,99,No,63,3,Yes,0.49,60.7,0.46,0.4,3.05
+2018-19,2,Ryan Fraser,AFC Bournemouth,25,Winger,3173,8,5,14,93,7.5,N/A,62,93,Yes,56,14,No,0.34,44.9,0.4,0.21,2.64
+2018-19,3,Trent Alexander-Arnold,Liverpool,20,Fullback,3055,7,0,12,70,8.2,N/A,13,70,Yes,89,2,Yes,0.13,83.9,0.35,0.24,2.06
+2018-19,4,Christian Eriksen,Tottenham Hotspur,27,Midfielder,3145,16,10,11,73,8,N/A,15,73,Yes,67,4,Yes,0.3,62.8,0.31,0.23,2.08
+2018-19,5,Andrew Robertson,Liverpool,25,Fullback,3240,4,0,10,48,6,N/A,14,48,No,89,2,Yes,0.11,83.9,0.28,0.17,1.33
+2018-19,6,Raheem Sterling,Manchester City,24,Winger,2955,8,18,9,49,5.5,N/A,89,49,No,95,1,Yes,0.28,88.7,0.27,0.17,1.49
+2018-19,7,Paul Pogba,Manchester United,26,Midfielder,2803,5,6,8,30,3.5,N/A,49,30,Yes,65,6,Yes,0.26,59.3,0.26,0.11,0.96
+2018-19,8,Mohamed Salah,Liverpool,26,Winger,3269,10,32,7,56,5.2,N/A,54,56,No,89,2,Yes,0.44,83.9,0.19,0.14,1.54
+2018-19,9,Matt Doherty,Wolverhampton Wanderers,27,Fullback,3177,N/A,N/A,6,28,3.1,N/A,40,28,No,47,7,No,0.26,45.8,0.17,0.09,0.79
+2018-19,10,David Silva,Manchester City,33,Midfielder,2493,14,9,5,45,5.8,N/A,20,45,No,95,1,Yes,0.15,88.7,0.18,0.21,1.62
+2017-18,1,Kevin De Bruyne,Manchester City,26,Midfielder,3085,15,6,16,114,10.8,N/A,41,114,Yes,106,1,Yes,0.31,90.3,0.47,0.32,3.33
+2017-18,2,Leroy Sané,Manchester City,22,Winger,2423,5,5,15,49,6.2,N/A,52,49,No,106,1,Yes,0.18,90.3,0.56,0.23,1.82
+2017-18,3,David Silva,Manchester City,32,Midfielder,2819,11,8,14,86,9,N/A,31,86,No,106,1,Yes,0.26,90.3,0.45,0.29,2.75
+2017-18,4,Christian Eriksen,Tottenham Hotspur,26,Midfielder,3167,15,8,13,100,10.5,N/A,23,100,Yes,74,3,Yes,0.3,69.5,0.37,0.3,2.83
+2017-18,5,Paul Pogba,Manchester United,25,Midfielder,2493,4,5,12,30,3.8,N/A,49,30,No,68,2,Yes,0.23,61.9,0.43,0.14,1.08
+2017-18,6,Dele Alli,Tottenham Hotspur,22,Midfielder,2926,7,18,11,48,5,N/A,37,48,No,74,3,Yes,0.24,69.5,0.34,0.15,1.47
+2017-18,7,Mohamed Salah,Liverpool,25,Winger,3173,N/A,N/A,10,68,7.9,N/A,54,68,No,84,4,Yes,0.49,70.9,0.28,0.22,1.93
+2017-18,8,Roberto Firmino,Liverpool,26,Forward,3089,8,11,9,53,5.8,N/A,12,53,No,84,4,Yes,0.28,70.9,0.26,0.17,1.55
+2017-18,9,Raheem Sterling,Manchester City,23,Winger,2674,7,10,8,44,4.5,N/A,56,44,No,106,1,Yes,0.22,90.3,0.27,0.15,1.48
+2017-18,10,Riyad Mahrez,Leicester City,27,Winger,2981,8,6,7,59,6.2,N/A,39,59,No,56,9,No,0.23,48.5,0.21,0.19,1.78
+2016-17,1,Kevin De Bruyne,Manchester City,25,Midfielder,2884,9,7,18,103,11.2,N/A,35,103,Yes,80,3,Yes,0.26,75.1,0.56,0.35,3.21
+2016-17,2,Christian Eriksen,Tottenham Hotspur,25,Midfielder,3167,6,6,15,112,11.5,N/A,31,112,Yes,86,2,Yes,0.32,77.5,0.42,0.32,3.17
+2016-17,3,Gylfi Sigurðsson,Swansea City,27,Midfielder,3320,11,11,14,85,8.8,N/A,26,85,Yes,45,15,No,0.4,43.2,0.38,0.24,2.3
+2016-17,4,Alexis Sánchez,Arsenal,28,Winger,3240,11,13,13,76,7.5,N/A,45,76,No,77,5,Yes,0.32,68.9,0.36,0.21,2.11
+2016-17,5,Mesut Özil,Arsenal,28,Midfielder,3049,19,6,12,103,9.9,N/A,20,103,Yes,77,5,Yes,0.29,68.9,0.35,0.29,3.04
+2016-17,6,Ross Barkley,Everton,23,Midfielder,2493,6,8,11,89,8.1,N/A,15,89,No,62,7,No,0.29,58.3,0.4,0.29,3.21
+2016-17,7,Pedro,Chelsea,29,Winger,2046,3,7,10,36,3.9,N/A,22,36,No,85,1,Yes,0.2,67.2,0.44,0.17,1.58
+2016-17,8,Dele Alli,Tottenham Hotspur,21,Midfielder,2926,6,18,9,36,3.5,N/A,37,36,No,86,2,Yes,0.31,77.5,0.28,0.11,1.11
+2016-17,9,Adam Lallana,Liverpool,29,Midfielder,2237,6,4,8,40,4.2,N/A,39,40,No,78,4,Yes,0.22,69.5,0.32,0.17,1.6
+2016-17,10,Romelu Lukaku,Everton,24,Forward,3373,6,18,7,28,3,N/A,11,28,No,62,7,No,0.34,58.3,0.19,0.08,0.75
+2015-16,1,Mesut Özil,Arsenal,27,Midfielder,3049,6,4,19,146,15,N/A,20,146,Yes,65,2,Yes,0.42,59.3,0.56,0.44,4.3
+2015-16,2,Christian Eriksen,Tottenham Hotspur,24,Midfielder,3240,6,10,18,79,8.5,N/A,23,79,Yes,69,3,Yes,0.26,63.4,0.5,0.24,2.19
+2015-16,3,Kevin De Bruyne,Manchester City,24,Midfielder,2884,N/A,N/A,17,77,8,N/A,20,77,Yes,71,4,Yes,0.24,67.6,0.53,0.25,2.4
+2015-16,4,Riyad Mahrez,Leicester City,25,Winger,3194,3,4,16,65,7,N/A,53,65,No,68,1,No,0.32,54.8,0.45,0.2,1.83
+2015-16,5,Dimitri Payet,West Ham United,29,Winger,2881,N/A,N/A,15,119,11,N/A,57,119,Yes,65,7,No,0.29,60.7,0.47,0.34,3.72
+2015-16,6,Wayne Rooney,Manchester United,30,Forward,2889,12,12,14,38,4.5,N/A,12,38,Yes,49,5,Yes,0.29,48.5,0.44,0.14,1.18
+2015-16,7,Harry Kane,Tottenham Hotspur,22,Forward,3419,N/A,21,13,43,5,N/A,36,43,Yes,69,3,Yes,0.48,63.4,0.34,0.13,1.13
+2015-16,8,Dele Alli,Tottenham Hotspur,19,Midfielder,2926,N/A,N/A,12,45,4.8,N/A,37,45,No,69,3,Yes,0.26,63.4,0.37,0.15,1.38
+2015-16,9,Olivier Giroud,Arsenal,29,Forward,2430,4,14,11,24,2.8,N/A,10,24,No,65,2,Yes,0.4,59.3,0.41,0.1,0.89
+2015-16,10,Jamie Vardy,Leicester City,29,Forward,3150,N/A,5,10,32,3.1,N/A,14,32,No,68,1,No,0.5,54.8,0.29,0.09,0.91
+2014-15,1,Cesc Fàbregas,Chelsea,27,Midfielder,2889,N/A,N/A,18,98,10.5,N/A,28,98,Yes,73,1,Yes,0.29,66.8,0.56,0.33,3.05
+2014-15,2,Santi Cazorla,Arsenal,30,Midfielder,2980,10,7,15,86,8.8,N/A,35,86,No,71,3,Yes,0.25,65.2,0.45,0.26,2.59
+2014-15,3,Eden Hazard,Chelsea,24,Winger,3150,7,14,14,88,9,N/A,52,88,No,73,1,Yes,0.29,66.8,0.4,0.26,2.51
+2014-15,4,Alexis Sánchez,Arsenal,26,Winger,3150,N/A,N/A,13,70,7.1,N/A,45,70,No,71,3,Yes,0.4,65.2,0.37,0.2,2
+2014-15,5,Gylfi Sigurðsson,Swansea City,25,Midfielder,3240,N/A,N/A,12,84,8.5,N/A,28,84,Yes,46,8,No,0.24,42.5,0.33,0.24,2.33
+2014-15,6,Saido Berahino,West Bromwich Albion,21,Forward,2489,1,5,11,29,3,N/A,15,29,No,38,13,No,0.4,36.5,0.4,0.11,1.05
+2014-15,7,Raheem Sterling,Liverpool,20,Winger,3060,11,9,10,63,6.5,N/A,40,63,No,52,6,Yes,0.33,51.8,0.29,0.19,1.85
+2014-15,8,Wayne Rooney,Manchester United,29,Forward,3060,9,17,9,36,4,N/A,12,36,Yes,62,4,Yes,0.26,59.3,0.26,0.12,1.05
+2014-15,9,David Silva,Manchester City,29,Midfielder,2970,9,7,8,75,7.8,N/A,25,75,No,83,2,Yes,0.18,78.2,0.24,0.24,2.27
+2014-15,10,Sergio Agüero,Manchester City,27,Forward,2970,N/A,17,7,34,3.5,N/A,12,34,No,83,2,Yes,0.35,78.2,0.21,0.11,1.03
+2013-14,1,Steven Gerrard,Liverpool,33,Midfielder,3240,8,9,13,58,6.1,N/A,15,58,Yes,101,2,Yes,0.24,84.6,0.36,0.17,1.61
+2013-14,2,Luis Suárez,Liverpool,27,Forward,3150,N/A,23,12,48,5,N/A,18,48,No,101,2,Yes,0.35,84.6,0.34,0.14,1.37
+2013-14,3,Wayne Rooney,Manchester United,28,Forward,3150,11,12,11,46,4.8,N/A,10,46,Yes,64,7,Yes,0.3,58.7,0.31,0.14,1.31
+2013-14,4,Yaya Touré,Manchester City,31,Midfielder,3150,6,6,10,50,5.2,N/A,32,50,Yes,102,1,Yes,0.33,88.1,0.29,0.15,1.42
+2013-14,5,David Silva,Manchester City,28,Midfielder,2970,11,4,9,40,4.5,N/A,18,40,No,102,1,Yes,0.13,88.1,0.27,0.14,1.21
+2013-14,6,Adam Lallana,Southampton,26,Midfielder,3240,N/A,3,8,42,4,N/A,32,42,No,54,8,No,0.24,49.2,0.22,0.11,1.17
+2013-14,7,Samir Nasri,Manchester City,27,Midfielder,2880,1,2,7,35,3.8,N/A,24,35,Yes,102,1,Yes,0.09,88.1,0.22,0.12,1.09
+2013-14,8,Christian Eriksen,Tottenham Hotspur,22,Midfielder,2700,N/A,N/A,6,30,3,N/A,15,30,Yes,55,6,Yes,0.15,52.8,0.2,0.1,1
+2013-14,9,Mesut Özil,Arsenal,25,Midfielder,2700,N/A,N/A,5,25,2.5,N/A,18,25,Yes,68,4,Yes,0.12,62.3,0.17,0.08,0.83
+2013-14,10,Eden Hazard,Chelsea,23,Winger,3150,7,9,4,30,3,N/A,40,30,No,71,3,Yes,0.18,65.7,0.11,0.08,0.86
+2012-13,1,Juan Mata,Chelsea,25,Midfielder,3240,11,6,17,70,7.2,N/A,22,70,Yes,75,3,Yes,0.3,68.9,0.47,0.2,1.94
+2012-13,2,Wayne Rooney,Manchester United,27,Forward,3150,12,27,16,45,4.8,N/A,15,45,No,86,1,Yes,0.44,79.5,0.46,0.14,1.29
+2012-13,3,Eden Hazard,Chelsea,22,Winger,3150,N/A,N/A,15,50,5.2,N/A,62,50,No,75,3,Yes,0.2,68.9,0.43,0.15,1.42
+2012-13,4,Santi Cazorla,Arsenal,28,Midfielder,3240,N/A,N/A,14,60,6.5,N/A,25,60,Yes,72,4,Yes,0.21,65.3,0.39,0.18,1.67
+2012-13,5,Gareth Bale,Tottenham Hotspur,23,Winger,3150,11,9,13,40,4.2,N/A,41,40,Yes,66,5,Yes,0.32,59.3,0.37,0.12,1.14
+2012-13,6,Luis Suárez,Liverpool,26,Forward,3240,N/A,11,12,38,4,N/A,19,38,No,71,7,Yes,0.31,65.2,0.33,0.11,1.06
+2012-13,7,David Silva,Manchester City,27,Midfielder,2970,15,6,11,55,5.8,N/A,18,55,No,66,2,Yes,0.17,62.8,0.33,0.18,1.67
+2012-13,8,Kevin Mirallas,Everton,25,Winger,2700,N/A,N/A,10,35,3.5,N/A,30,35,No,55,6,No,0.2,49.5,0.33,0.12,1.17
+2012-13,9,Theo Walcott,Arsenal,24,Winger,2970,8,8,9,30,3,N/A,35,30,No,72,4,Yes,0.25,65.3,0.27,0.09,0.91
+2012-13,10,Steven Gerrard,Liverpool,33,Midfielder,3240,N/A,8,8,45,4.5,N/A,15,45,Yes,71,7,Yes,0.18,65.2,0.22,0.12,1.25
+2011-12,1,David Silva,Manchester City,26,Midfielder,3060,15,4,15,60,6,N/A,20,60,No,93,1,Yes,0.21,80.1,0.44,0.18,1.76
+2011-12,2,Juan Mata,Chelsea,24,Midfielder,3060,N/A,N/A,14,55,5.5,N/A,25,55,Yes,65,6,Yes,0.22,60.8,0.41,0.16,1.62
+2011-12,3,Antonio Valencia,Manchester United,26,Winger,2880,1,N/A,13,40,4,N/A,35,40,No,89,2,Yes,0.18,78.5,0.41,0.13,1.25
+2011-12,4,Wayne Rooney,Manchester United,26,Forward,3150,12,11,12,35,3.5,N/A,12,35,Yes,89,2,Yes,0.33,78.5,0.34,0.1,1
+2011-12,5,Gareth Bale,Tottenham Hotspur,22,Winger,3150,9,7,11,30,3,N/A,40,30,Yes,66,4,Yes,0.3,60.2,0.31,0.09,0.86
+2011-12,6,Robin van Persie,Arsenal,28,Forward,3420,8,18,10,35,3.5,N/A,15,35,Yes,74,3,Yes,0.35,68.9,0.26,0.09,0.92
+2011-12,7,Theo Walcott,Arsenal,23,Winger,2970,8,8,9,30,3,N/A,25,30,No,74,3,Yes,0.23,68.9,0.27,0.09,0.91
+2011-12,8,Steven Gerrard,Liverpool,32,Midfielder,2790,12,4,8,40,4,N/A,15,40,Yes,47,8,Yes,0.26,45.8,0.26,0.13,1.29
+2011-12,9,Sergio Agüero,Manchester City,24,Forward,2700,N/A,N/A,7,30,3,N/A,15,30,No,93,1,Yes,0.32,80.1,0.23,0.1,1
+2011-12,10,Frank Lampard,Chelsea,34,Midfielder,3150,14,22,6,25,2.5,N/A,18,25,Yes,65,6,Yes,0.24,60.8,0.17,0.07,0.71
+2010-11,1,Nani,Manchester United,24,Winger,2668,9,3,14,50,5,N/A,62,50,No,78,1,Yes,0.17,68.5,0.47,0.17,1.69
+2010-11,2,Didier Drogba,Chelsea,33,Forward,2955,16,29,13,45,4.5,N/A,12,45,Yes,69,2,Yes,0.25,65.1,0.4,0.14,1.37
+2010-11,3,Cesc Fàbregas,Arsenal,24,Midfielder,2970,15,15,12,55,5.5,N/A,18,55,Yes,72,4,Yes,0.2,68.2,0.36,0.17,1.67
+2010-11,4,Andrey Arshavin,Arsenal,30,Winger,2790,11,10,11,40,4,N/A,35,40,No,72,4,Yes,0.2,68.2,0.35,0.13,1.29
+2010-11,5,Ashley Young,Aston Villa,26,Winger,3150,N/A,7,10,35,3.5,N/A,52,35,No,42,9,No,0.29,40.1,0.29,0.1,1
+2010-11,6,Frank Lampard,Chelsea,33,Midfielder,2970,14,22,9,30,3,N/A,18,30,Yes,69,2,Yes,0.42,65.1,0.27,0.09,0.91
+2010-11,7,Rafael van der Vaart,Tottenham Hotspur,28,Midfielder,2880,N/A,N/A,8,25,2.5,N/A,15,25,No,55,5,Yes,0.24,51.8,0.25,0.08,0.78
+2010-11,8,Steven Gerrard,Liverpool,31,Midfielder,2880,15,11,7,40,4,N/A,18,40,Yes,59,6,Yes,0.2,55.1,0.22,0.13,1.25
+2010-11,9,Robin van Persie,Arsenal,28,Forward,2970,8,9,6,25,2.5,N/A,12,25,No,72,4,Yes,0.21,68.2,0.18,0.08,0.76
+2010-11,10,Carlos Tevez,Manchester City,27,Forward,3150,N/A,23,5,20,2,N/A,20,20,No,60,3,Yes,0.47,56.7,0.14,0.06,0.57
+2009-10,1,Frank Lampard,Chelsea,32,Midfielder,3240,14,12,14,40,4,N/A,18,40,Yes,103,1,Yes,0.3,95.1,0.39,0.11,1.11
+2009-10,2,Didier Drogba,Chelsea,32,Forward,3060,10,5,13,35,3.5,N/A,15,35,No,103,1,Yes,0.4,95.1,0.38,0.1,1.03
+2009-10,3,Cesc Fàbregas,Arsenal,23,Midfielder,3150,17,3,12,50,5,N/A,25,50,Yes,83,3,Yes,0.25,78.2,0.34,0.14,1.42
+2009-10,4,Wayne Rooney,Manchester United,25,Forward,2880,9,12,11,35,3.5,N/A,15,35,Yes,86,2,Yes,0.4,81.2,0.34,0.11,1.09
+2009-10,5,Ryan Giggs,Manchester United,37,Winger,2790,9,11,10,30,3,N/A,20,30,No,86,2,Yes,0.24,81.2,0.32,0.1,0.96
+2009-10,6,James Milner,Aston Villa,24,Midfielder,3060,5,3,9,30,3,N/A,20,30,Yes,52,6,No,0.25,50.1,0.26,0.09,0.88
+2009-10,7,Florent Malouda,Chelsea,30,Winger,2970,7,5,8,25,2.5,N/A,18,25,No,103,1,Yes,0.12,95.1,0.24,0.08,0.76
+2009-10,8,Carlos Tevez,Manchester City,26,Forward,3150,N/A,5,7,20,2,N/A,10,20,No,73,5,Yes,0.36,68.2,0.2,0.06,0.57
+2009-10,9,Gareth Bale,Tottenham Hotspur,21,Winger,2700,N/A,3,6,20,2,N/A,15,20,No,67,4,Yes,0.24,62.3,0.2,0.07,0.67
+2009-10,10,Steven Gerrard,Liverpool,30,Midfielder,3150,13,16,5,20,2,N/A,10,20,Yes,62,7,Yes,0.34,58.7,0.14,0.06,0.57
+2008-09,1,Frank Lampard,Chelsea,31,Midfielder,3240,12,10,10,35,3.5,N/A,15,35,Yes,68,3,Yes,0.32,65.3,0.28,0.1,0.97
+2008-09,2,Robin van Persie,Arsenal,26,Forward,2880,8,7,9,30,3,N/A,12,30,No,68,4,Yes,0.26,62.8,0.28,0.09,0.94
+2008-09,3,Dirk Kuyt,Liverpool,29,Forward,3060,9,12,8,25,2.5,N/A,10,25,No,77,2,Yes,0.26,72.1,0.24,0.07,0.73
+2008-09,4,Cesc Fàbregas,Arsenal,22,Midfielder,2970,17,7,7,30,3,N/A,15,30,Yes,68,4,Yes,0.19,62.8,0.21,0.09,0.91
+2008-09,5,Dimitar Berbatov,Manchester United,28,Forward,3060,10,15,6,20,2,N/A,10,20,No,68,1,Yes,0.18,65.1,0.18,0.06,0.59
+2008-09,6,Steven Gerrard,Liverpool,29,Midfielder,3240,13,24,5,15,1.5,N/A,8,15,Yes,77,2,Yes,0.3,72.1,0.14,0.04,0.42
+2008-09,7,Wayne Rooney,Manchester United,24,Forward,3150,9,12,4,10,1,N/A,5,10,No,68,1,Yes,0.29,65.1,0.11,0.03,0.29
+2008-09,8,Ashley Young,Aston Villa,24,Winger,3420,14,9,3,15,1.5,N/A,10,15,No,54,6,No,0.22,50.8,0.08,0.04,0.39
+2008-09,9,Nicolas Anelka,Chelsea,30,Forward,2790,9,19,2,5,0.5,N/A,2,5,No,68,3,Yes,0.31,65.3,0.06,0.02,0.16
+2008-09,10,Cristiano Ronaldo,Manchester United,24,Winger,2880,10,18,1,2,0.2,N/A,1,2,Yes,68,1,Yes,0.28,65.1,0.03,0.01,0.06
+2007-08,1,Cesc Fàbregas,Arsenal,21,Midfielder,2880,17,7,17,60,6,N/A,25,60,Yes,74,3,Yes,0.23,68.2,0.53,0.19,1.88
+2007-08,2,Emmanuel Adebayor,Arsenal,24,Forward,3150,N/A,8,16,55,5.5,N/A,15,55,No,74,3,Yes,0.22,68.2,0.46,0.16,1.57
+2007-08,3,Ashley Young,Aston Villa,22,Winger,3240,N/A,3,14,50,5,N/A,20,50,No,56,6,No,0.25,50.8,0.39,0.14,1.39
+2007-08,4,Steven Gerrard,Liverpool,27,Midfielder,3150,15,11,13,45,4.5,N/A,18,45,Yes,67,4,Yes,0.19,62.3,0.37,0.13,1.29
+2007-08,5,Frank Lampard,Chelsea,29,Midfielder,3150,14,11,12,40,4,N/A,15,40,Yes,65,2,Yes,0.18,60.2,0.34,0.11,1.14
+2007-08,6,Cristiano Ronaldo,Manchester United,23,Winger,2880,11,31,10,35,3.5,N/A,20,35,Yes,80,1,Yes,0.13,75.1,0.31,0.11,1.09
+2007-08,7,Dimitar Berbatov,Tottenham Hotspur,27,Forward,3240,10,15,10,30,3,N/A,15,30,No,66,11,Yes,0.15,62.8,0.28,0.08,0.83
+2007-08,8,Wayne Rooney,Manchester United,22,Forward,2970,16,12,9,25,2.5,N/A,12,25,No,80,1,Yes,0.11,75.1,0.27,0.08,0.76
+2007-08,9,Nicolas Anelka,Chelsea,29,Forward,3150,N/A,14,9,20,2,N/A,8,20,No,65,2,Yes,0.14,60.2,0.26,0.06,0.57
+2007-08,10,Robin van Persie,Arsenal,24,Forward,2700,N/A,7,8,25,2.5,N/A,12,25,No,74,3,Yes,0.11,68.2,0.27,0.08,0.83
+2006-07,1,Cesc Fàbregas,Arsenal,20,Midfielder,3240,13,1,17,55,5.5,N/A,20,55,Yes,63,4,Yes,0.27,58.7,0.47,0.15,1.53
+2006-07,2,Wayne Rooney,Manchester United,21,Forward,3060,14,12,16,50,5,N/A,18,50,No,83,1,Yes,0.19,77.5,0.47,0.15,1.47
+2006-07,3,Steven Gerrard,Liverpool,26,Midfielder,3330,11,9,15,45,4.5,N/A,15,45,Yes,57,3,Yes,0.26,53.4,0.41,0.12,1.21
+2006-07,4,Frank Lampard,Chelsea,28,Midfielder,3420,15,16,14,40,4,N/A,12,40,Yes,64,2,Yes,0.22,60.2,0.37,0.11,1.05
+2006-07,5,Jermaine Jenas,Tottenham Hotspur,24,Midfielder,2790,N/A,N/A,13,35,3.5,N/A,10,35,No,57,5,Yes,0.23,53.4,0.42,0.11,1.13
+2006-07,6,Dirk Kuyt,Liverpool,26,Forward,3150,7,11,12,30,3,N/A,15,30,No,57,3,Yes,0.21,53.4,0.34,0.09,0.86
+2006-07,7,Cristiano Ronaldo,Manchester United,22,Winger,2790,N/A,17,11,40,4,N/A,25,40,No,83,1,Yes,0.13,77.5,0.35,0.13,1.29
+2006-07,8,Dimitar Berbatov,Tottenham Hotspur,26,Forward,3240,N/A,12,10,25,2.5,N/A,12,25,No,57,5,Yes,0.18,53.4,0.28,0.07,0.69
+2006-07,9,Nolberto Solano,Newcastle United,32,Winger,2970,N/A,N/A,9,25,2.5,N/A,15,25,Yes,44,13,No,0.2,40.1,0.27,0.08,0.76
+2006-07,10,Paul Scholes,Manchester United,32,Midfielder,2970,9,N/A,8,30,3,N/A,12,30,Yes,83,1,Yes,0.1,77.5,0.24,0.09,0.91
+2005-06,1,Thierry Henry,Arsenal,28,Forward,3330,N/A,25,16,45,4.5,N/A,20,45,No,68,4,Yes,0.24,63.4,0.43,0.12,1.21
+2005-06,2,Frank Lampard,Chelsea,27,Midfielder,3420,18,13,15,40,4,N/A,15,40,Yes,72,1,Yes,0.21,68.2,0.39,0.11,1.05
+2005-06,3,Wayne Rooney,Manchester United,20,Forward,2970,17,16,14,50,5,N/A,20,50,No,72,2,Yes,0.19,68.2,0.42,0.15,1.51
+2005-06,4,Cesc Fàbregas,Arsenal,19,Midfielder,3330,N/A,2,13,40,4,N/A,15,40,Yes,68,4,Yes,0.19,63.4,0.35,0.11,1.08
+2005-06,5,Joe Cole,Chelsea,24,Midfielder,2880,N/A,9,12,35,3.5,N/A,10,35,No,72,1,Yes,0.17,68.2,0.38,0.11,1.09
+2005-06,6,Steven Gerrard,Liverpool,25,Midfielder,3150,16,10,11,30,3,N/A,15,30,Yes,57,3,Yes,0.19,53.4,0.31,0.09,0.86
+2005-06,7,Darren Bent,Charlton Athletic,22,Forward,3330,N/A,N/A,10,25,2.5,N/A,10,25,No,41,13,No,0.24,37.1,0.27,0.07,0.67
+2005-06,8,Michael Essien,Chelsea,23,Midfielder,3060,N/A,N/A,9,20,2,N/A,8,20,No,72,1,Yes,0.13,68.2,0.26,0.06,0.59
+2005-06,9,Jamie Carragher,Liverpool,28,Defender,3420,N/A,N/A,8,15,1.5,N/A,5,15,No,57,3,Yes,0.14,53.4,0.21,0.04,0.39
+2005-06,10,Dirk Kuyt,Liverpool,25,Forward,2880,N/A,N/A,7,20,2,N/A,10,20,No,57,3,Yes,0.12,53.4,0.22,0.06,0.63
+2004-05,1,Frank Lampard,Chelsea,26,Midfielder,3420,18,10,18,50,5,N/A,25,50,Yes,72,1,Yes,0.25,68.2,0.47,0.13,1.31
+2004-05,2,Wayne Rooney,Manchester United,19,Forward,2970,15,11,17,60,6,N/A,20,60,No,58,3,Yes,0.29,55.1,0.51,0.18,1.82
+2004-05,3,Steven Gerrard,Liverpool,24,Midfielder,3330,14,7,16,45,4.5,N/A,15,45,Yes,51,5,Yes,0.29,48.5,0.43,0.12,1.21
+2004-05,4,José Reyes,Arsenal,21,Forward,2700,N/A,2,15,40,4,N/A,15,40,No,87,2,Yes,0.17,79.5,0.5,0.13,1.33
+2004-05,5,Ryan Giggs,Manchester United,31,Winger,2790,17,12,14,35,3.5,N/A,18,35,No,58,3,Yes,0.24,55.1,0.45,0.11,1.13
+2004-05,6,Arjen Robben,Chelsea,21,Winger,2520,N/A,N/A,13,40,4,N/A,15,40,No,72,1,Yes,0.18,68.2,0.46,0.14,1.43
+2004-05,7,Dennis Bergkamp,Arsenal,36,Forward,2880,10,5,12,30,3,N/A,12,30,No,87,2,Yes,0.14,79.5,0.38,0.09,0.94
+2004-05,8,Peter Crouch,Southampton,24,Forward,3150,N/A,N/A,11,25,2.5,N/A,10,25,No,45,12,No,0.24,40.1,0.31,0.07,0.71
+2004-05,9,Shaun Wright-Phillips,Manchester City,23,Winger,3330,N/A,N/A,10,30,3,N/A,15,30,No,49,8,No,0.2,45.8,0.27,0.08,0.81
+2004-05,10,Paul Scholes,Manchester United,30,Midfielder,2880,16,9,9,25,2.5,N/A,10,25,No,58,3,Yes,0.16,55.1,0.28,0.08,0.78
+2003-04,1,Thierry Henry,Arsenal,26,Forward,3240,20,24,19,60,6,N/A,25,60,No,73,1,Yes,0.26,68.9,0.53,0.17,1.67
+2003-04,2,Frank Lampard,Chelsea,25,Midfielder,3420,12,10,18,55,5.5,N/A,20,55,Yes,67,2,Yes,0.27,62.8,0.47,0.14,1.45
+2003-04,3,Ryan Giggs,Manchester United,30,Winger,3060,18,7,17,50,5,N/A,18,50,No,64,3,Yes,0.27,58.7,0.5,0.15,1.47
+2003-04,4,Paul Scholes,Manchester United,29,Midfielder,2880,16,14,16,45,4.5,N/A,15,45,No,64,3,Yes,0.25,58.7,0.5,0.14,1.41
+2003-04,5,Wayne Rooney,Everton,18,Forward,3150,14,9,15,40,4,N/A,12,40,No,45,17,No,0.33,42.5,0.43,0.11,1.14
+2003-04,6,Steven Gerrard,Liverpool,23,Midfielder,3330,12,5,14,35,3.5,N/A,15,35,Yes,55,4,Yes,0.25,51.8,0.38,0.09,0.95
+2003-04,7,Robert Pires,Arsenal,30,Winger,3240,7,14,13,30,3,N/A,18,30,No,73,1,Yes,0.18,68.9,0.36,0.08,0.83
+2003-04,8,Joe Cole,Chelsea,22,Midfielder,2700,8,1,11,25,2.5,N/A,10,25,No,67,2,Yes,0.16,62.8,0.37,0.08,0.83
+2003-04,9,Matthew Taylor,Portsmouth,22,Midfielder,3060,16,3,10,20,2,N/A,12,20,No,47,13,No,0.21,44.9,0.29,0.06,0.59
+2003-04,10,Dennis Bergkamp,Arsenal,35,Forward,2970,N/A,4,10,15,1.5,N/A,5,15,No,73,1,Yes,0.14,68.9,0.3,0.05,0.45
+2002-03,1,Thierry Henry,Arsenal,25,Forward,3150,13,24,20,50,5,N/A,20,50,No,85,2,Yes,0.24,79.5,0.57,0.14,1.43
+2002-03,2,Ryan Giggs,Manchester United,29,Winger,2880,10,8,18,45,4.5,N/A,18,45,No,74,1,Yes,0.24,68.9,0.56,0.14,1.41
+2002-03,3,Paul Scholes,Manchester United,28,Midfielder,2880,9,14,16,40,4,N/A,15,40,No,74,1,Yes,0.22,68.9,0.5,0.12,1.25
+2002-03,4,Wayne Rooney,Everton,17,Forward,2880,N/A,N/A,14,35,3.5,N/A,12,35,No,44,7,No,0.32,39.8,0.44,0.11,1.09
+2002-03,5,Steven Gerrard,Liverpool,22,Midfielder,3060,N/A,N/A,12,30,3,N/A,15,30,Yes,67,5,Yes,0.18,62.3,0.35,0.09,0.88
+2002-03,6,Nolberto Solano,Newcastle United,28,Winger,3240,N/A,N/A,11,25,2.5,N/A,12,25,Yes,53,3,No,0.21,49.5,0.31,0.07,0.69
+2002-03,7,Freddie Ljungberg,Arsenal,25,Midfielder,3060,7,6,10,20,2,N/A,10,20,No,85,2,Yes,0.12,79.5,0.29,0.06,0.59
+2002-03,8,David Beckham,Manchester United,28,Midfielder,2700,8,11,9,25,2.5,N/A,12,25,Yes,74,1,Yes,0.12,68.9,0.3,0.08,0.83
+2002-03,9,Joe Cole,West Ham,21,Midfielder,2790,N/A,N/A,8,20,2,N/A,8,20,No,42,18,No,0.19,37.1,0.26,0.06,0.65
+2002-03,10,Robert Pires,Arsenal,29,Winger,2970,15,14,7,15,1.5,N/A,5,15,No,85,2,Yes,0.08,79.5,0.21,0.05,0.45
+2001-02,1,Robert Pires,Arsenal,28,Winger,2970,6,4,15,40,4,N/A,18,40,No,79,1,Yes,0.19,75.1,0.45,0.12,1.21
+2001-02,2,Alan Shearer,Newcastle United,31,Forward,3420,N/A,N/A,14,35,3.5,N/A,15,35,Yes,74,4,No,0.19,69.5,0.37,0.09,0.92
+2001-02,3,Thierry Henry,Arsenal,24,Forward,3330,13,17,13,30,3,N/A,12,30,No,79,1,Yes,0.16,75.1,0.35,0.08,0.81
+2001-02,4,Frank Lampard,Chelsea,23,Midfielder,3420,7,4,12,25,2.5,N/A,10,25,Yes,66,6,Yes,0.18,62.8,0.32,0.07,0.66
+2001-02,5,Sol Campbell,Arsenal,27,Defender,3420,N/A,N/A,11,20,2,N/A,8,20,No,79,1,Yes,0.14,75.1,0.29,0.05,0.52
+2001-02,6,Ryan Giggs,Manchester United,28,Winger,3240,15,7,10,18,1.8,N/A,8,18,No,87,3,Yes,0.11,81.2,0.28,0.05,0.5
+2001-02,7,Paul Scholes,Manchester United,27,Midfielder,2790,N/A,N/A,9,20,2,N/A,10,20,Yes,87,3,Yes,0.1,81.2,0.29,0.06,0.64
+2001-02,8,David Beckham,Manchester United,27,Midfielder,3150,12,9,8,15,1.5,N/A,5,15,Yes,87,3,Yes,0.09,81.2,0.23,0.04,0.43
+2001-02,9,Fredrik Ljungberg,Arsenal,24,Midfielder,2790,N/A,N/A,7,12,1.2,N/A,4,12,No,79,1,Yes,0.09,75.1,0.22,0.04,0.39
+2001-02,10,Michael Owen,Liverpool,22,Forward,3150,N/A,N/A,6,10,1,N/A,3,10,No,67,2,Yes,0.09,62.8,0.17,0.03,0.29
+2000-01,1,Matthew Taylor,Portsmouth,19,Midfielder,3330,N/A,N/A,16,25,2.5,N/A,12,25,Yes,45,16,No,0.36,40.1,0.43,0.07,0.68
+2000-01,2,Ryan Giggs,Manchester United,27,Winger,3060,11,6,15,22,2.2,N/A,10,22,No,79,1,Yes,0.19,74.5,0.44,0.06,0.65
+2000-01,3,Thierry Henry,Arsenal,23,Forward,3240,N/A,N/A,13,20,2,N/A,8,20,No,63,2,Yes,0.21,58.7,0.36,0.06,0.56
+2000-01,4,David Beckham,Manchester United,26,Midfielder,3150,15,6,12,18,1.8,N/A,7,18,Yes,79,1,Yes,0.15,74.5,0.34,0.05,0.51
+2000-01,5,Lee Bowyer,Leeds United,24,Midfielder,3330,N/A,N/A,11,15,1.5,N/A,5,15,No,66,4,No,0.17,61.9,0.3,0.04,0.41
+2000-01,6,Gary Speed,Newcastle United,32,Midfielder,3420,8,4,10,12,1.2,N/A,4,12,Yes,68,11,No,0.15,62.8,0.26,0.03,0.31
+2000-01,7,Mark Viduka,Leeds United,25,Forward,2970,N/A,N/A,9,10,1,N/A,3,10,No,66,4,No,0.14,61.9,0.27,0.03,0.3
+2000-01,8,Steven Gerrard,Liverpool,21,Midfielder,2880,10,4,8,8,0.8,N/A,2,8,Yes,71,3,Yes,0.11,66.8,0.25,0.02,0.25
+2000-01,9,Robbie Fowler,Leeds United,26,Forward,2700,N/A,N/A,7,7,0.7,N/A,2,7,No,66,4,No,0.11,61.9,0.23,0.02,0.23
+2000-01,10,Robert Pires,Arsenal,27,Winger,2790,N/A,N/A,6,5,0.5,N/A,1,5,No,63,2,Yes,0.1,58.7,0.19,0.01,0.16
+1999-00,1,David Beckham,Manchester United,25,Midfielder,2790,11,9,15,22,2.2,N/A,10,22,Yes,97,1,Yes,0.15,90.3,0.48,0.07,0.71
+1999-00,2,Nolberto Solano,Newcastle United,25,Winger,2700,N/A,N/A,14,20,2,N/A,8,20,No,63,11,No,0.22,58.7,0.47,0.07,0.67
+1999-00,3,Dennis Bergkamp,Arsenal,31,Forward,2610,12,16,13,18,1.8,N/A,7,18,No,73,2,Yes,0.18,68.9,0.45,0.06,0.62
+1999-00,4,Dwight Yorke,Manchester United,28,Forward,2880,10,18,12,15,1.5,N/A,6,15,No,97,1,Yes,0.12,90.3,0.38,0.05,0.47
+1999-00,5,Ryan Giggs,Manchester United,26,Winger,2700,10,6,11,12,1.2,N/A,5,12,No,97,1,Yes,0.11,90.3,0.37,0.04,0.4
+1999-00,6,Steven Gerrard,Liverpool,20,Midfielder,2700,9,1,10,10,1,N/A,3,10,Yes,67,4,Yes,0.15,62.8,0.33,0.03,0.33
+1999-00,7,Kevin Phillips,Sunderland,26,Forward,3420,N/A,N/A,9,8,0.8,N/A,2,8,Yes,57,7,No,0.16,53.4,0.24,0.02,0.21
+1999-00,8,Gary Speed,Leeds United,31,Midfielder,3330,8,7,8,7,0.7,N/A,2,7,Yes,69,3,No,0.12,64.2,0.22,0.02,0.19
+1999-00,9,Patrik Berger,Liverpool,26,Midfielder,2700,N/A,N/A,8,6,0.6,N/A,2,6,No,67,4,Yes,0.12,62.8,0.27,0.02,0.2
+1999-00,10,Frank Lampard,West Ham United,21,Midfielder,2880,N/A,N/A,7,5,0.5,N/A,2,5,No,52,9,No,0.13,48.5,0.22,0.02,0.16
+1998-99,1,Jimmy Floyd Hasselbaink,Leeds United,26,Forward,3150,N/A,N/A,13,20,2,N/A,10,20,No,62,4,No,0.21,57.8,0.37,0.06,0.57
+1998-99,2,Dennis Bergkamp,Arsenal,30,Forward,3150,12,16,12,18,1.8,N/A,7,18,No,59,2,Yes,0.2,55.1,0.34,0.05,0.51
+1998-99,3,David Beckham,Manchester United,24,Midfielder,3240,13,9,11,15,1.5,N/A,6,15,Yes,80,1,Yes,0.14,75.1,0.31,0.04,0.42
+1998-99,4,Dwight Yorke,Manchester United,27,Forward,3150,11,17,10,12,1.2,N/A,5,12,No,80,1,Yes,0.13,75.1,0.29,0.04,0.34
+1998-99,5,Ryan Giggs,Manchester United,25,Winger,2970,8,3,10,10,1,N/A,3,10,No,80,1,Yes,0.13,75.1,0.3,0.03,0.3
+1998-99,6,Steven Gerrard,Liverpool,19,Midfielder,2430,N/A,N/A,9,8,0.8,N/A,2,8,No,68,7,Yes,0.13,62.8,0.33,0.03,0.3
+1998-99,7,Lee Dixon,Arsenal,35,Defender,3420,N/A,N/A,9,5,0.5,N/A,1,5,No,59,2,Yes,0.15,55.1,0.24,0.01,0.13
+1998-99,8,Gary Speed,Leeds United,30,Midfielder,3330,N/A,N/A,8,5,0.5,N/A,1,5,Yes,62,5,No,0.13,57.8,0.22,0.01,0.13
+1998-99,9,Mark Hughes,Southampton,35,Forward,2880,N/A,N/A,8,4,0.4,N/A,1,4,No,37,17,No,0.22,34.2,0.25,0.01,0.13
+1998-99,10,Fabrizio Ravanelli,Derby County,30,Forward,3150,N/A,N/A,8,4,0.4,N/A,1,4,No,44,8,No,0.18,40.1,0.23,0.01,0.11
+1997-98,1,David Beckham,Manchester United,23,Midfielder,3150,9,8,13,18,1.8,N/A,7,18,Yes,73,2,Yes,0.18,68.9,0.37,0.05,0.51
+1997-98,2,Dennis Bergkamp,Arsenal,29,Forward,2970,10,16,12,15,1.5,N/A,5,15,No,68,1,Yes,0.18,62.8,0.36,0.05,0.45
+1997-98,3,Dwight Yorke,Aston Villa,26,Forward,3330,11,17,11,12,1.2,N/A,4,12,No,49,7,No,0.22,45.8,0.3,0.03,0.32
+1997-98,4,Steve McManaman,Liverpool,26,Midfielder,3330,N/A,N/A,10,10,1,N/A,3,10,No,65,3,Yes,0.15,60.7,0.27,0.03,0.27
+1997-98,5,Gary Speed,Everton,28,Midfielder,3330,N/A,N/A,10,8,0.8,N/A,2,8,Yes,44,11,No,0.23,40.1,0.27,0.02,0.22
+1997-98,6,Teddy Sheringham,Manchester United,32,Forward,2835,N/A,N/A,9,8,0.8,N/A,3,8,No,73,2,Yes,0.12,68.9,0.29,0.03,0.25
+1997-98,7,Ryan Giggs,Manchester United,24,Winger,3060,9,3,8,7,0.7,N/A,2,7,No,73,2,Yes,0.11,68.9,0.23,0.02,0.21
+1997-98,8,Frank Sinclair,Chelsea,26,Defender,3420,N/A,N/A,8,5,0.5,N/A,1,5,No,59,4,Yes,0.14,55.1,0.21,0.01,0.13
+1997-98,9,Gareth Southgate,Aston Villa,27,Defender,3420,N/A,N/A,7,4,0.4,N/A,1,4,No,49,7,No,0.14,45.8,0.18,0.01,0.1
+1997-98,10,Gary McAllister,Coventry City,33,Midfielder,3240,8,5,7,5,0.5,N/A,1,5,Yes,41,11,No,0.17,37.1,0.19,0.01,0.14
+1996-97,1,Éric Cantona,Manchester United,30,Forward,2970,N/A,N/A,14,20,2,N/A,10,20,No,76,1,Yes,0.18,71.3,0.42,0.06,0.61
+1996-97,2,David Ginola,Newcastle United,30,Winger,3150,N/A,N/A,12,18,1.8,N/A,8,18,No,70,2,No,0.17,65.7,0.34,0.05,0.51
+1996-97,3,Dwight Yorke,Aston Villa,25,Forward,3420,8,17,11,15,1.5,N/A,6,15,No,51,5,No,0.22,47.6,0.29,0.04,0.39
+1996-97,4,Dennis Bergkamp,Arsenal,28,Forward,2970,7,11,10,12,1.2,N/A,5,12,No,62,3,Yes,0.16,57.8,0.3,0.04,0.36
+1996-97,5,Robbie Fowler,Liverpool,22,Forward,3240,9,16,10,12,1.2,N/A,4,12,No,62,4,Yes,0.16,57.8,0.28,0.03,0.33
+1996-97,6,Les Ferdinand,Newcastle United,30,Forward,3420,N/A,N/A,10,10,1,N/A,3,10,No,70,2,No,0.14,65.7,0.26,0.03,0.26
+1996-97,7,Ryan Giggs,Manchester United,23,Winger,3330,N/A,N/A,9,8,0.8,N/A,2,8,No,76,1,Yes,0.12,71.3,0.24,0.02,0.22
+1996-97,8,David Beckham,Manchester United,22,Midfielder,3240,12,8,9,8,0.8,N/A,2,8,Yes,76,1,Yes,0.12,71.3,0.25,0.02,0.22
+1996-97,9,Mark Hughes,Chelsea,34,Forward,2880,N/A,N/A,9,7,0.7,N/A,2,7,No,59,6,Yes,0.15,55.1,0.28,0.02,0.22
+1996-97,10,Gary McAllister,Coventry City,32,Midfielder,3330,N/A,N/A,8,6,0.6,N/A,2,6,Yes,59,17,No,0.14,55.1,0.22,0.02,0.16
+1995-96,1,Steve McManaman,Liverpool,24,Midfielder,3320,13,6,15,20,2,N/A,10,20,No,69,3,Yes,0.22,64.2,0.41,0.05,0.54
+1995-96,2,David Beckham,Manchester United,21,Midfielder,2955,10,7,12,15,1.5,N/A,7,15,Yes,73,1,Yes,0.16,68.9,0.36,0.05,0.46
+1995-96,3,Dion Dublin,Coventry City,27,Forward,3420,N/A,N/A,10,12,1.2,N/A,5,12,No,42,16,No,0.24,39.8,0.26,0.03,0.31
+1995-96,4,Teddy Sheringham,Tottenham Hotspur,29,Forward,3420,8,16,10,10,1,N/A,4,10,No,50,8,Yes,0.2,46.5,0.26,0.03,0.26
+1995-96,5,Robbie Fowler,Liverpool,21,Forward,3060,9,16,9,12,1.2,N/A,4,12,No,69,3,Yes,0.13,64.2,0.26,0.04,0.35
+1995-96,6,Lee Sharpe,Manchester United,24,Winger,2520,7,4,9,10,1,N/A,3,10,No,73,1,Yes,0.12,68.9,0.32,0.04,0.36
+1995-96,7,Dwight Yorke,Aston Villa,24,Forward,3330,8,13,8,8,0.8,N/A,2,8,No,52,4,No,0.15,48.5,0.22,0.02,0.22
+1995-96,8,Ian Wright,Arsenal,32,Forward,2835,N/A,N/A,8,7,0.7,N/A,2,7,No,49,5,Yes,0.16,45.8,0.25,0.02,0.22
+1995-96,9,Gary Speed,Everton,26,Midfielder,3420,N/A,N/A,8,8,0.8,N/A,2,8,Yes,43,6,No,0.19,39.8,0.21,0.02,0.21
+1995-96,10,Dennis Bergkamp,Arsenal,27,Forward,3150,9,11,7,6,0.6,N/A,2,6,No,49,5,Yes,0.14,45.8,0.2,0.02,0.17
+1994-95,1,Matt Le Tissier,Southampton,26,Midfielder,3577,10,19,15,18,1.8,N/A,7,18,Yes,61,10,No,0.25,56.7,0.38,0.05,0.45
+1994-95,2,Éric Cantona,Manchester United,28,Forward,2965,14,18,14,15,1.5,N/A,5,15,No,77,2,Yes,0.18,72.1,0.42,0.05,0.45
+1994-95,3,Steve McManaman,Liverpool,23,Winger,3600,9,2,13,15,1.5,N/A,5,15,No,65,4,Yes,0.2,60.7,0.32,0.04,0.38
+1994-95,4,Tim Sherwood,Blackburn Rovers,25,Midfielder,3550,N/A,N/A,12,10,1,N/A,3,10,No,80,1,No,0.15,75.1,0.3,0.03,0.25
+1994-95,5,Ryan Giggs,Manchester United,21,Winger,3240,N/A,N/A,11,10,1,N/A,3,10,No,77,2,Yes,0.14,72.1,0.31,0.03,0.28
+1994-95,6,David Beckham,Manchester United,20,Midfielder,2880,N/A,N/A,10,9,0.9,N/A,3,9,Yes,77,2,Yes,0.13,72.1,0.31,0.03,0.28
+1994-95,7,Alan Shearer,Blackburn Rovers,24,Forward,3600,N/A,N/A,9,8,0.8,N/A,2,8,No,80,1,No,0.11,75.1,0.23,0.02,0.2
+1994-95,8,Teddy Sheringham,Tottenham Hotspur,28,Forward,3600,9,18,8,7,0.7,N/A,2,7,No,66,7,Yes,0.12,61.9,0.2,0.02,0.19
+1994-95,9,Dwight Yorke,Aston Villa,23,Forward,3420,N/A,N/A,8,7,0.7,N/A,2,7,No,49,18,No,0.16,45.8,0.21,0.02,0.18
+1994-95,10,Lee Sharpe,Manchester United,23,Winger,2970,9,4,7,6,0.6,N/A,2,6,No,77,2,Yes,0.09,72.1,0.21,0.02,0.18
+1993-94,1,Éric Cantona,Manchester United,27,Forward,3060,16,15,14,18,1.8,N/A,7,18,No,80,1,Yes,0.18,75.1,0.41,0.05,0.53
+1993-94,2,Andy Cole,Newcastle United,22,Forward,3195,N/A,N/A,11,12,1.2,N/A,4,12,No,82,3,No,0.13,76.5,0.31,0.03,0.34
+1993-94,3,Matt Le Tissier,Southampton,25,Midfielder,3579,10,15,10,10,1,N/A,3,10,Yes,54,18,No,0.19,50.8,0.25,0.02,0.25
+1993-94,4,John Barnes,Liverpool,30,Winger,3150,N/A,N/A,10,8,0.8,N/A,2,8,No,51,8,Yes,0.2,47.6,0.29,0.02,0.23
+1993-94,5,Chris Sutton,Norwich City,21,Forward,3600,N/A,N/A,10,9,0.9,N/A,3,9,No,56,12,No,0.18,52.3,0.25,0.02,0.22
+1993-94,6,Dennis Bergkamp,Arsenal,24,Forward,3253,N/A,N/A,9,8,0.8,N/A,2,8,No,40,4,Yes,0.22,37.1,0.25,0.02,0.22
+1993-94,7,Dean Holdsworth,Wimbledon,25,Forward,3780,10,19,9,8,0.8,N/A,2,8,No,57,6,No,0.16,53.4,0.21,0.02,0.19
+1993-94,8,David White,Manchester City,26,Winger,3690,N/A,N/A,9,7,0.7,N/A,2,7,No,57,16,No,0.16,53.4,0.22,0.02,0.17
+1993-94,9,Steve McManaman,Liverpool,22,Winger,3690,N/A,N/A,9,8,0.8,N/A,2,8,No,51,8,Yes,0.18,47.6,0.22,0.02,0.2
+1993-94,10,Darren Anderton,Tottenham Hotspur,22,Midfielder,2907,11,8,8,7,0.7,N/A,2,7,No,60,15,Yes,0.13,56.1,0.25,0.02,0.22
+1992-93,1,Éric Cantona,Leeds United/Manchester United,26,Forward,3014,N/A,N/A,16,18,1.8,N/A,7,18,No,67,1,Yes,0.24,62.8,0.48,0.05,0.54
+1992-93,2,Darren Anderton,Tottenham Hotspur,21,Midfielder,2975,N/A,N/A,11,10,1,N/A,3,10,No,60,8,Yes,0.18,56.1,0.33,0.03,0.3
+1992-93,3,Niall Quinn,Manchester City,26,Forward,3483,N/A,N/A,11,10,1,N/A,3,10,No,57,9,No,0.19,53.4,0.28,0.03,0.26
+1992-93,4,Jason Wilcox,Blackburn Rovers,21,Midfielder,2863,N/A,N/A,10,9,0.9,N/A,3,9,No,68,4,No,0.15,63.4,0.31,0.03,0.28
+1992-93,5,Matt Le Tissier,Southampton,24,Midfielder,3600,N/A,N/A,10,9,0.9,N/A,3,9,Yes,54,18,No,0.19,50.8,0.25,0.02,0.22
+1992-93,6,Brian Deane,Sheffield United,25,Forward,3600,N/A,N/A,10,8,0.8,N/A,2,8,No,54,14,No,0.19,50.8,0.25,0.02,0.2
+1992-93,7,Lee Sharpe,Manchester United,21,Winger,2400,N/A,N/A,9,8,0.8,N/A,2,8,No,67,1,Yes,0.13,62.8,0.34,0.03,0.3
+1992-93,8,Ian Woan,Nottingham Forest,25,Midfielder,2832,N/A,N/A,9,8,0.8,N/A,2,8,No,40,22,No,0.23,37.1,0.29,0.03,0.25
+1992-93,9,Andy Sinton,Queens Park Rangers,27,Winger,3240,N/A,N/A,9,7,0.7,N/A,2,7,No,63,5,No,0.14,58.7,0.25,0.02,0.19
+1992-93,10,Teddy Sheringham,Tottenham Hotspur,27,Forward,3600,N/A,N/A,9,8,0.8,N/A,2,8,No,60,8,Yes,0.15,56.1,0.23,0.02,0.2
