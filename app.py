@@ -76,8 +76,8 @@ st.markdown("""
 # --------------------------
 @st.cache_resource
 def load_models():
-    winner_model = joblib.load(r"E:\EPL Prediction\match_winner_model.pkl")
-    assists_model = joblib.load(r"E:\EPL Prediction\top_assists_model.pkl")
+    winner_model = joblib.load("match_winner_model.pkl")
+    assists_model = joblib.load("top_assists_model.pkl")
     return winner_model, assists_model
 
 winner_model, assists_model = load_models()
@@ -464,3 +464,4 @@ st.markdown("""
         </style>
     </div>
 """, unsafe_allow_html=True)
+
