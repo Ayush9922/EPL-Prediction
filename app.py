@@ -5,9 +5,9 @@ import numpy as np
 
 
 
-# --------------------------
+# -------------------------
 # Page Config
-# --------------------------
+# -------------------------
 st.set_page_config(
     page_title="🏆 EPL Prediction Hub | AI Football Analytics",
     page_icon="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
@@ -464,4 +464,5 @@ st.markdown("""
         </style>
     </div>
 """, unsafe_allow_html=True)
+
 
