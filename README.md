@@ -18,7 +18,7 @@
 - 🏆 **Match Winners** – Determine the likely outcome of a Premier League match based on match statistics.  
 - 🎯 **Player Assists** – Estimate how many assists a player will make this season using key performance indicators.
 
-This project blends **AI-driven analytics** with an engaging, modern UI for football fans, data scientists, and analysts.
+This project blends **AI-driven analytics** with an engaging, modern UI for football fans, Data Scientists, and analysts.
 
 ---
 
